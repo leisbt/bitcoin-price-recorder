@@ -14,3 +14,11 @@ Inputs are the following:
 - username for robinhood
 - password for robinhood
 - file path of database
+
+Libraries required:
+- time
+- requests
+- sqlite3
+- datetime
+- poplib
+- re
